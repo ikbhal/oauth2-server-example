@@ -1,0 +1,21 @@
+{
+  "name": "oauth2-server",
+  "version": "0.0.0",
+  "description": "sample oauth 2.0 server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "oauth",
+    "2.0",
+    "example",
+    "server",
+    "rest",
+    "api",
+    "authentication",
+    "authorization"
+  ],
+  "author": "Shaik Ikbhal Basha",
+  "license": "MIT"
+}
